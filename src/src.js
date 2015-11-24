@@ -1,3 +1,5 @@
+console.log("Running!");
+
 var Library = {
     name: "Timmy", //Library has been called Timmy
     greet: function(){
