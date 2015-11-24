@@ -8,10 +8,14 @@ var Library = {
         alert("Hello from the " + Library.name + " library.");
         console.log("User executed Library.greet()!" + "Hi " + name);
     }
-    stop: function(text){
-        var alerttext = this.text;
+    stop: function(alert_text){
+        var alerttext = this.alert_text;
         alert(alerttext);
         console.log("You just alerted" + alerttext);
+    }
+    write: function(write_text){
+        var writetext = this.write_text;
+        document.getElementByTag("body").innerHTML = writetext;
     }
     /*
     This library is what is known as an object literal. To invoke the greet function, we would write:
