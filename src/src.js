@@ -8,8 +8,8 @@ var Library = {
         alert("Hello from the " + Library.name + " library.");
         console.log("User executed Library.greet()!" + "Hi " + name);
     }
-    stop: function(text){
-        var alerttext = this.text;
+    stop: function (text){
+        var alerttext = text;
         alert(alerttext);
         console.log("You just alerted" + alerttext);
     }
