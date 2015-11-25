@@ -2,7 +2,7 @@ beginner.JS
 ===================
 
 Description:
-This JavaScript library will help beginners create their first program.
+This JavaScript library will help beginners create their first program. See the full website at: <a href="http://alaskamani15.github.io/beginner.js">Beginner.JS</a>
 
 Installation Guide
 -------------------
