@@ -1,10 +1,20 @@
-`beginner.js`
+beginner.JS
 ===================
 
 Description:
 This JavaScript library will help beginners create their first program.
 
-----------
+Installation Guide
+-------------------
+To install *beginner.js* on a website, you can download the source <a href="https://raw.githubusercontent.com/alaskamani15/beginner.js/master/src/src.js" download="beginnerJS.js">here</a>, or install it directly using `script` tags that look like:
+
+    <script src="https://raw.githubusercontent.com/alaskamani15/beginner.js/master/src/src.js"></script>
+    <script>
+    Library.greet();
+    </script>
+
+
+
 Installed Functions:
 -------------
 <pre>
